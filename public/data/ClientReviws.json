@@ -1,0 +1,44 @@
+[
+  {
+    "clientName": "Alice Johnson",
+    "rating": 5,
+    "testimonial": "The birthday party organized by the team was beyond my expectations! From the decorations to the entertainment, everything was perfect. My daughter had the best day of her life. Thank you for making her birthday so special.",
+    "eventDate": "2023-05-15",
+    "imageURL": "https://i.ibb.co/qYmjFYR/teacher-m-11.jpg"
+  },
+  {
+    "clientName": "John Smith",
+    "rating": 4.5,
+    "testimonial": "I am highly impressed with the professionalism and creativity of the birthday party planning team. They paid attention to every detail and created a magical atmosphere for my wife's birthday. The guests were thrilled, and we received many compliments. Great job!",
+    "eventDate": "2023-07-02",
+    "imageURL": "https://i.ibb.co/drj848b/teacher-m-5.png"
+  },
+  {
+    "clientName": "Emily Parker",
+    "rating": 5,
+    "testimonial": "I cannot express how grateful I am for the fantastic birthday party organized by this team. The coordination, theme selection, and execution were flawless. My son and his friends had a blast. I would recommend their services to anyone looking for a stress-free and fabulous celebration.",
+    "eventDate": "2023-09-18",
+    "imageURL": "https://i.ibb.co/N2nF2Fw/teacher-m-1.png"
+  },
+  {
+    "clientName": "Michael Davis",
+    "rating": 4,
+    "testimonial": "The birthday party planners did an excellent job. The event flowed seamlessly, and the activities kept the kids engaged throughout. Although there were a few minor hiccups, the team handled them professionally. Overall, it was a wonderful experience, and I would consider hiring them again.",
+    "eventDate": "2023-08-10",
+    "imageURL": "https://i.ibb.co/1JbXpBk/teacher-f-12.jpg"
+  },
+  {
+    "clientName": "Linda Wilson",
+    "rating": 5,
+    "testimonial": "I want to thank the entire team for making my husband's birthday so memorable. The theme they suggested was a hit, and the decorations were breathtaking. The attention to detail and the friendly approach of the team made the entire planning process enjoyable. We received numerous compliments from our guests. A big thumbs up!",
+    "eventDate": "2023-06-25",
+    "imageURL": "https://i.ibb.co/Xtmqv4h/teacher-f-4.png"
+  },
+  {
+    "clientName": "David Lee",
+    "rating": 4.8,
+    "testimonial": "I was amazed at how the birthday party planners transformed our backyard into a dreamy space for my 40th birthday celebration. The lighting, music, and catering were all top-notch. The team was responsive to our requests and accommodated last-minute changes gracefully. Thank you for creating an unforgettable evening for me and my guests.",
+    "eventDate": "2023-04-30",
+    "imageURL": "https://i.ibb.co/68vdD9r/teacher-f-2.png"
+  }
+]

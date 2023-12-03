@@ -1,0 +1,32 @@
+@import "App.scss";
+.verticle_slide{
+  .swiper {
+  .swiper-wrapper {
+    .swiper-slide {
+       margin-left: 24%;            
+       width: 78%;
+       opacity: 0.5 !important;
+       top: 50% !important;
+       margin-bottom: 40px;
+    }   
+    .swiper-slide-active {
+      position: relative;
+      z-index: 10000; 
+      height: 0px !important;
+        top: -20% !important;
+      .cradrs_items {
+        width: 100%;
+        position: absolute;
+        z-index: 10000; 
+        margin-left: -20%;
+        @include transition(0.5s);
+      }
+
+      top: 0;
+      @include transition(0.5s);
+      opacity: 1 !important;
+    }
+  }
+}                  
+}
+

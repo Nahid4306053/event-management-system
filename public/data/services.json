@@ -1,0 +1,98 @@
+[
+  {
+    "id": "001",
+    "name": "Elegant Venue",
+    "image": "https://i.ibb.co/TbbK9TJ/Elegant-Venue.jpg",
+    "price": "$2000",
+    "description": "Our Elegant Venue provides an enchanting backdrop for your birthday celebration. This sophisticated space, bathed in soft lights and tasteful decor, accommodates up to 150 guests, ensuring an intimate yet lively atmosphere. Imagine your guests mingling amid the elegant ambiance, creating cherished memories in every corner. Our comprehensive package includes not only the venue but also a dedicated team to handle setup and teardown, ensuring your day runs seamlessly.",
+    "works": "Birthday party venue rental, setup and teardown, catering with a customizable menu, professional decoration with drapes and lights, high-quality sound and lighting setup."
+  },
+  {
+    "id": "002",
+    "name": "Customized Invitations",
+    "image": "https://i.ibb.co/LnQJt7W/Customized-Invitations.jpg",
+    "price": "$300",
+    "description": "Set the tone for your event with our Customized Invitations service. Our skilled designers craft invitations that perfectly mirror the essence of your celebration. From selecting the finest paper to incorporating unique design elements, each invitation is a work of art. We handle everything, from conceptualization to printing and timely delivery. Your guests will be captivated from the moment they receive their invitation, creating excitement that sets the stage for an unforgettable party.",
+    "works": "Birthday party design customization based on the theme, printing of high-quality invitations, and timely delivery to the provided addresses."
+  },
+  {
+    "id": "003",
+    "name": "Enchanting Decorations",
+    "image": "https://i.ibb.co/hRrHPYr/Enchanting-Decorations.jpg",
+    "price": "$500",
+    "description": "Transform your venue into a magical wonderland with our Enchanting Decorations service. Drapes cascading like waterfalls, fairy lights twinkling like stars, and themed centerpieces adorning every table – our decorators bring your vision to life. We pay meticulous attention to detail, ensuring every element complements the theme of your celebration. The ambiance becomes a canvas, painting a picture of enchantment and charm. With us, your venue will be the talk of the town, leaving a lasting impression on your guests.",
+    "works": "Birthday party creative decoration setup with drapes, fairy lights, themed centerpieces, beautifully arranged table settings, and ambiance enhancement."
+  },
+  {
+    "id": "004",
+    "name": "Gourmet Catering",
+    "image": "https://i.ibb.co/dL1VvRB/Gourmet-Catering.jpg",
+    "price": "$1500",
+    "description": "Indulge your guests in a culinary journey with our Gourmet Catering service. Our expert chefs curate a menu that tantalizes taste buds and satisfies the most discerning palates. From delectable appetizers that awaken the senses to mouthwatering main courses and exquisite desserts that leave a sweet lingering taste, every dish is a masterpiece. Our professional serving staff ensures impeccable presentation and service, elevating your celebration into a gourmet experience. With us, you're not just hosting a party; you're treating your guests to a gastronomic adventure they won't forget.",
+    "works": "Birthday party menu planning, preparation of gourmet appetizers, main courses, and desserts, professional serving staff, and catering setup and cleanup."
+  },
+  {
+    "id": "005",
+    "name": "Creative Cakes and Desserts",
+    "image": "https://i.ibb.co/W6qMgrq/Creative-Cakes-and-Desserts.webp",
+    "price": "$250",
+    "description": "Satisfy your sweet cravings with our Creative Cakes and Desserts service. Our pastry chefs are artists, crafting delightful confections that are not only delicious but also visually stunning. The centerpiece, your themed birthday cake, is a masterpiece of edible art, reflecting the essence of your celebration. Accompanying it are an assortment of pastries, each a small delight waiting to be savored. From intricate designs to exquisite flavors, our creations are bound to leave your guests enchanted and craving for more.",
+    "works": "Birthday party custom cake design based on the theme, baking and delivery of the cake, and a variety of delightful pastries and desserts."
+  },
+  {
+    "id": "006",
+    "name": "Live Entertainment",
+    "image": "https://i.ibb.co/ckSwN6R/Live-Entertainment.jpg",
+    "price": "$800",
+    "description": "Elevate your party with our Live Entertainment service. Whether you prefer the soulful tunes of a live band, the energetic beats of a DJ, the mystique of a magician's performance, or the excitement of interactive games, we've got it all covered. Our team coordinates every aspect, from artist bookings to stage setup, ensuring seamless entertainment that keeps your guests engaged and enthralled. Imagine the dance floor alive with energy, laughter filling the air, and applause resonating through the venue – that's the magic of our live entertainment services.",
+    "works": "Birthday party booking and coordination of live band or DJ, magician's performance, interactive games setup, and entertainment management."
+  },
+  {
+    "id": "007",
+    "name": "Fun Activities and Games",
+    "image": "https://i.ibb.co/hf1rFtJ/Fun-Activities-and-Games.webp",
+    "price": "$300",
+    "description": "Keep your guests entertained with our Fun Activities and Games service. Picture this: laughter echoing from the photo booth, friends teaming up for scavenger hunts, the thrill of trivia games, and the joy of children getting their faces painted with vibrant colors. Our professional entertainers ensure that every activity is not just a pastime but a memorable experience. These interactive elements add layers of enjoyment, turning your birthday celebration into an event where everyone, regardless of age, can participate and create cherished moments.",
+    "works": "Birthday party setup of interactive photo booths, organization of scavenger hunts, trivia games, and professional face painting services."
+  },
+  {
+    "id": "008",
+    "name": "Unique Party Favors",
+    "image": "https://i.ibb.co/V2G9Pjt/Unique-Party-Favors.jpg",
+    "price": "$200",
+    "description": "Express your gratitude to your guests with our Unique Party Favors service. These tokens of appreciation go beyond conventional souvenirs; they are personalized keepsakes, trinkets, and themed treasures that reflect the essence of your celebration. Our experts carefully curate a selection of favors, ensuring they align with your party theme. Each item is customized, packaged elegantly, and distributed to your guests before the end of the event. These thoughtful gestures leave a lasting impression, reminding your guests of the wonderful time they had at your birthday party.",
+    "works": "Birthday party selection and customization of party favors, packaging, and distribution to all guests before the end of the event."
+  },
+  {
+    "id": "009",
+    "name": "Professional Photography and Videography",
+    "image": "https://i.ibb.co/LZMjhgb/Professional-Photography-and-Videography.jpg",
+    "price": "$700",
+    "description": "Capture the magic of your celebration with our Professional Photography and Videography service. Our skilled photographers and videographers are artists behind the lens, adept at capturing candid moments, group photos brimming with joy, and cinematic videos that tell the story of your event. Every smile, every dance move, every heartfelt conversation – our team immortalizes these moments, ensuring you have a treasure trove of memories to revisit. After the event, you receive digital copies of all photos and videos, allowing you to relive the special day whenever you desire.",
+    "works": "Birthday party coverage of the entire event, candid and group photography, cinematic event video production, and digital copies of all photos and videos."
+  },
+  {
+    "id": "010",
+    "name": "State-of-the-Art Sound and Lighting",
+    "image": "https://i.ibb.co/5FXqqmS/State-of-the-Art-Sound-and-Lighting.jpg",
+    "price": "$400",
+    "description": "Transform your venue with our State-of-the-Art Sound and Lighting service. Immerse your guests in an audio-visual experience that enhances the ambiance of your celebration. Our high-quality sound systems ensure crystal-clear announcements and music that resonates through the venue, setting the perfect mood for every moment. Dynamic lighting effects add depth and vibrancy, illuminating the space in hues that complement your party theme. From subtle, warm tones to vibrant, energetic colors, our lighting experts create an atmosphere that captivates the senses, making your birthday party a visual and auditory delight.",
+    "works": "Birthday party setup of high-quality sound systems, microphones for announcements, dynamic lighting effects, and ambiance enhancement."
+  },
+  {
+    "id": "011",
+    "name": "Convenient Transportation",
+    "image": "https://i.ibb.co/wBXBJBF/Convenient-Transportation.jpg",
+    "price": "$250",
+    "description": "Ensure the convenience of your guests with our Convenient Transportation service. We understand the importance of hassle-free travel, especially when the venue is tucked away in a picturesque location. Our transportation services include shuttle buses, luxury cars, and even themed transport options that align with your party's theme. Guests can relax and enjoy the journey, arriving at the venue in style and comfort. After the celebration, our transportation ensures everyone reaches their destinations safely, leaving them with fond memories of not just the party but the entire experience, from arrival to departure.",
+    "works": "Birthday party arrangement of transportation services, coordination of shuttle buses and luxury cars, and themed transportation options based on the party theme."
+  },
+  {
+    "id": "012",
+    "name": "Post-Event Cleanup and Services",
+    "image": "https://i.ibb.co/z2YF7Jb/Post-Event-Cleanup-and-Services.jpg",
+    "price": "$150",
+    "description": "After the festivities wind down, our Post-Event Cleanup and Services team steps in to ensure you can relax, knowing every detail is taken care of. As you bid farewell to the last guest, our dedicated crew begins their meticulous work. Dismantling decorations with care, they return rented equipment, handle vendor payments, and even send out personalized thank-you notes to each attendee. Our goal is to leave your venue in the same pristine condition as when we arrived, sparing you the stress of post-party cleanup. You can unwind, reminiscing about the magical moments while we handle the nitty-gritty. With our team by your side, you can relish the success of your event, knowing that even after the party ends, our commitment to your satisfaction continues.",
+    "works": "Birthday party dismantling of decorations and equipment, coordination of vendor payments, cleanup of the venue, and sending personalized thank-you notes to all guests."
+  }
+]

@@ -1,0 +1,23 @@
+@import 'App.scss';
+
+.service_card{
+     .card_bannner{
+                    @include transition(.5s);              
+     }                 
+     overflow: hidden;
+   .card-body{
+        .bellown{
+          @include transition(.5s);
+          @include translatey(120%)         
+        }            
+   }                 
+}.service_card:hover{
+      .card_bannner{
+      @include transform-scale(1.2);           
+     }                  
+   .card-body{
+        .bellown{
+          @include translatey(0%)         
+        }            
+   }                 
+}

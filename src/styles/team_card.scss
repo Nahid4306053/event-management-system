@@ -1,0 +1,52 @@
+@import 'App';
+.team_card{
+ .description{
+  @include transition(.5s);
+  @include translatey(450px);
+
+ } 
+ .team_card_img{
+
+  height: 100%;
+  width: 100%;
+  @include transition(.5s);
+  top: 0px;
+  left:0px
+ }
+ .overlay{
+  @include transition(.5s);
+  background-repeat: no-repeat;
+  background-blend-mode: overlay;
+  background-size: cover;
+  top: 0;
+  height: 60%;
+  width: 100%;
+  @include translatey(-100%); 
+  clip-path: polygon(0 0, 100% 0, 100% 67%, 28% 82%, 0 67%);
+  .ov_item{
+
+     background-color: rgba(0, 0, 0, 0.317);
+  }
+ }
+}.team_card:hover{
+   
+ .team_card_img{
+  
+  border: 10px solid #7DD3FC;
+   height: 110px;
+   width: 110px;
+   top: 210px;
+   left:50px;
+   @include border-radious(100%);
+   overflow: hidden;
+   
+ } 
+ .description{
+  @include transition(.5s);
+  @include translatey(140px);
+ 
+ } 
+ .overlay{
+  @include translatey(0%); 
+ }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "John Smith",
+    "role": "Event Coordinator",
+    "email": "john.smith@example.com",
+    "phone": "+1 (123) 456-7890",
+    "profileImageURL": "https://i.ibb.co/JsWcwzg/teacher-m-7.jpg"
+  },
+  {
+    "name": "Alice Johnson",
+    "role": "Decorations Specialist",
+    "email": "alice.johnson@example.com",
+    "phone": "+1 (234) 567-8901",
+    "profileImageURL": "https://i.ibb.co/M1WCLcV/teacher-m-9.jpg"
+  },
+  {
+    "name": "Emily Parker",
+    "role": "Entertainment Manager",
+    "email": "emily.parker@example.com",
+    "phone": "+1 (345) 678-9012",
+    "profileImageURL": "https://i.ibb.co/cggM1Sc/teacher-m-3.png"
+  },
+  {
+    "name": "Michael Davis",
+    "role": "Catering Coordinator",
+    "email": "michael.davis@example.com",
+    "phone": "+1 (456) 789-0123",
+    "profileImageURL": "https://i.ibb.co/wcHnQg8/teacher-f-10.jpg"
+  },
+  {
+    "name": "Linda Wilson",
+    "role": "Theme Designer",
+    "email": "linda.wilson@example.com",
+    "phone": "+1 (567) 890-1234",
+    "profileImageURL": "https://i.ibb.co/pKxSbPz/teacher-f-8.jpg"
+  },
+  {
+    "name": "David Lee",
+    "role": "Music and Sound Specialist",
+    "email": "david.lee@example.com",
+    "phone": "+1 (678) 901-2345",
+    "profileImageURL": "https://i.ibb.co/82pk5D1/teacher-f-6.png"
+  }
+]

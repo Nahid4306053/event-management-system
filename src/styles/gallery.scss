@@ -1,0 +1,18 @@
+@import "App";
+
+.gellary {
+  cursor: pointer;
+  @include transition(0.3s);
+  .details {
+    color: white;
+    background: #000000a2;
+    @include transition(0.3s);
+    @include translatey(-100%)
+  }
+}
+.gellary:hover {
+  .details {
+    @include transform-scale(1);
+    @include translatey(0%)
+  }
+}
